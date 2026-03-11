@@ -1,7 +1,10 @@
-## Hi, I am Vedanti Deshmukh 👋
-<img align="right" alt="coding" width="400" src="animation.gif">
-# 💫 About Me:
+<p align="center">
+  <img src="coding-animation.gif" width="450" alt="coding-animation">
+</p>
 
+<h1 align="center">Hi, I am Vedanti Deshmukh 👋</h1>
+
+<h2 align="center"><b>💫 About Me:</b></h2>
 M.Tech (Computer Science & Engineering) student passionate about Artificial Intelligence, Data Analytics, Genrative AI,Agentic AI & emerging technologies. I enjoy building intelligent systems and exploring Quantum Computing.
 
 🎓 M.Tech (CSE)  <br>🤖 Interested in AI, Machine Learning, Generative AI & Agentic AI  <br>📊 Passionate about Data Analytics & Data-Driven Systems  <br>🐍 Developer using Python & Java  <br>⚛️ Exploring Quantum Computing  
