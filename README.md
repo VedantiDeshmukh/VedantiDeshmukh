@@ -1,4 +1,8 @@
-<p align="center"> <video src="https://github.com/VedantiDeshmukh/VedantiDeshmukh/blob/main/animation.mp4" width="450" controls></video> </p>
+<p align="center">
+  <img src="animation.gif" width="500" alt="animation.gif">
+</p>
+
+<h1 align="center">Hey, I am Vedanti Deshmukh 👋</h1>
 <h1 align="center">Hey, I am Vedanti Deshmukh 👋</h1>
 
 <h2 align="Left"><b>💫 About Me:</b></h2>
