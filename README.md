@@ -2,7 +2,7 @@
   <img src="animation.gif" width="450" alt="animation.gif">
 </p>
 
-<h1 align="center">Hi, I am Vedanti Deshmukh 👋</h1>
+<h1 align="center">Hey, I am Vedanti Deshmukh 👋</h1>
 
 <h2 align="Left"><b>💫 About Me:</b></h2>
 M.Tech (Computer Science & Engineering) student passionate about Artificial Intelligence, Data Analytics, Genrative AI,Agentic AI & emerging technologies. I enjoy building intelligent systems and exploring Quantum Computing.
