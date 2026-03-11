@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="animation.mp4" width="450" alt="animation.mp4">
+  <img src="[animation.mp4](https://github.com/VedantiDeshmukh/VedantiDeshmukh/blob/main/animation.mp4)" width="450" alt="[animation.mp4](https://github.com/VedantiDeshmukh/VedantiDeshmukh/blob/main/animation.mp4)">
 </p>
 
 <h1 align="center">Hey, I am Vedanti Deshmukh 👋</h1>
