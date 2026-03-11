@@ -1,7 +1,7 @@
 ## Hi, I am Vedanti Deshmukh 👋
 # 💫 About Me:
 
-M.Tech (Computer Science & Engineering) student passionate about Artificial Intelligence, Data Analytics, and emerging technologies. I enjoy building intelligent systems and exploring advanced AI concepts like Generative AI and 
+M.Tech (Computer Science & Engineering) student passionate about Artificial Intelligence, Data Analytics, Genrative AI,Agentic AI & emerging technologies. I enjoy building intelligent systems and exploring Quantum Computing.
 
 🎓 M.Tech (CSE)  <br>🤖 Interested in AI, Machine Learning, Generative AI & Agentic AI  <br>📊 Passionate about Data Analytics & Data-Driven Systems  <br>🐍 Developer using Python & Java  <br>⚛️ Exploring Quantum Computing  
 
