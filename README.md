@@ -1,6 +1,5 @@
 ## Hi, I am Vedanti Deshmukh 👋
-<img align="right" alt="coding" width="400" src="https://lottiefiles.com/free-animation/girl-working-on-laptop-lottie-animation-VYShYrrSQL">
-
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndnZueHhieHpxeHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/u04n5DPX6vMqyY6Xbc/giphy.gif">
 # 💫 About Me:
 
 M.Tech (Computer Science & Engineering) student passionate about Artificial Intelligence, Data Analytics, Genrative AI,Agentic AI & emerging technologies. I enjoy building intelligent systems and exploring Quantum Computing.
