@@ -1,6 +1,4 @@
 ## Hi, I am Vedanti Deshmukh 👋
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/assets/female_coder.gif">
-
 
 # 💫 About Me:
 
