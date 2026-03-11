@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="coding-animation.gif" width="450" alt="animation.gif">
+  <img src="animation.gif" width="450" alt="animation.gif">
 </p>
 
 <h1 align="center">Hi, I am Vedanti Deshmukh 👋</h1>
