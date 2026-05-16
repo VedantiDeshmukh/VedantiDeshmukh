@@ -34,7 +34,7 @@ M.Tech (Computer Science & Engineering) student passionate about Artificial Inte
 
 ## 👀 Profile Views
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VedantiDeshmukh&color=blue&style=flat-square&label=PROFILE+VIEWS&cacheSeconds=1800" width="300" alt="Vedanti's Profile Views" />
+  <img src="https://twm.ec/s/v1/badge?id=VedantiDeshmukh&color=0077B5&style=flat-square&label=PROFILE+VIEWS" width="300" alt="Vedanti's Profile Views" />
 </p>
 
 ## 🏆 GitHub Trophies
