@@ -33,10 +33,12 @@ M.Tech (Computer Science & Engineering) student passionate about Artificial Inte
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=VedantiDeshmukh&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+![](https://github-repository-contribution-stats.vercel.app/api?username=VedantiDeshmukh&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 <p align="center">
+  <b>Profile Views</b><br>
   <img src="https://profile-counter.glitch.me/VedantiDeshmukh/count.svg" alt="Visitor Count" />
 </p>
 
