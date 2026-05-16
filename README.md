@@ -32,7 +32,7 @@ M.Tech (Computer Science & Engineering) student passionate about Artificial Inte
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=VedantiDeshmukh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="195" alt="Top Languages" />
 </p>
 
-# 👀 Profile Views:
+# 👀  Profile Viewa
 <p align="center">
   <b>Profile Views</b><br><br>
   <img src="https://komarev.com/ghpvc/?username=VedantiDeshmukh&color=blue&style=flat-square" alt="Vedanti's Profile Views" />
