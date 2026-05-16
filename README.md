@@ -34,7 +34,7 @@ M.Tech (Computer Science & Engineering) student passionate about Artificial Inte
 
 ## 👀 Profile Views
 <p align="center">
-  <img src="https://twm.ec/s/v1/badge?id=VedantiDeshmukh&color=0077B5&style=flat-square&label=PROFILE+VIEWS" width="300" alt="Vedanti's Profile Views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=VedantiDeshmukh.profile&left_text=PROFILE%20VIEWS&left_color=%23555555&right_color=%230077B5" width="280" alt="Vedanti's Profile Views" />
 </p>
 
 ## 🏆 GitHub Trophies
