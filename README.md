@@ -34,11 +34,8 @@ M.Tech (Computer Science & Engineering) student passionate about Artificial Inte
 
 ### 🔝 Top Contributed Repo
 
-### 🔝 Featured Project
 <p align="center">
-  <a href="https://github.com/VedantiDeshmukh/YOUR_BEST_REPOSITORY_NAME">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=VedantiDeshmukh&repo=YOUR_BEST_REPOSITORY_NAME&theme=dark" alt="Featured Repo" />
-  </a>
+  <img src="https://github-repository-contribution-stats.vercel.app/api?username=VedantiDeshmukh&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
 </p>
 
 ---
