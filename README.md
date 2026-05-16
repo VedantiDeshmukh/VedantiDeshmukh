@@ -60,5 +60,5 @@ M.Tech (Computer Science & Engineering) student passionate about Artificial Inte
 </p>
 
 <p align="center">
-  <img src="Thankyou.gif" width="900" alt="Thankyou.gif">
+  <img src="Thankyou.gif" width="750" alt="Thankyou.gif">
 </p>
