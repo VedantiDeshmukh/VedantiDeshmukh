@@ -32,6 +32,6 @@ M.Tech (Computer Science & Engineering) student passionate about Artificial Inte
 ![](https://github-contributor-stats.vercel.app/api?username=VedantiDeshmukh&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=VedantiDeshmukh&icon=0&color=2)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=VedantiDeshmukh&icon=0&color=2)](https://github.com/VedantiDeshmukh)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
