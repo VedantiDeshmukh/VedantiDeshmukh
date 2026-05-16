@@ -32,12 +32,10 @@ M.Tech (Computer Science & Engineering) student passionate about Artificial Inte
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-
+### 🔝 Contribution Activity
 <p align="center">
-  <img src="https://github-repository-contribution-stats.vercel.app/api?username=VedantiDeshmukh&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VedantiDeshmukh&theme=react-dark&area=true&custom_title=Recent%20Contribution%20Activity" alt="Contribution Graph" />
 </p>
-
 ---
 ---
 
