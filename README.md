@@ -58,3 +58,7 @@ M.Tech (Computer Science & Engineering) student passionate about Artificial Inte
   <b>Profile Views</b><br><br>
   <img src="https://komarev.com/ghpvc/?username=VedantiDeshmukh&color=blue&style=flat-square" alt="Vedanti's Profile Views" />
 </p>
+
+<p align="center">
+  <img src="animation.gif" width="450" alt="animation.gif">
+</p>
