@@ -34,12 +34,19 @@ M.Tech (Computer Science & Engineering) student passionate about Artificial Inte
 
 ### 🔝 Top Contributed Repo
 
-![](https://github-repository-contribution-stats.vercel.app/api?username=VedantiDeshmukh&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 🔝 Featured Project
+<p align="center">
+  <a href="https://github.com/VedantiDeshmukh/YOUR_BEST_REPOSITORY_NAME">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=VedantiDeshmukh&repo=YOUR_BEST_REPOSITORY_NAME&theme=dark" alt="Featured Repo" />
+  </a>
+</p>
 
 ---
+---
+
 <p align="center">
-  <b>Profile Views</b><br>
-  <img src="https://profile-counter.glitch.me/VedantiDeshmukh/count.svg" alt="Visitor Count" />
+  <b>Profile Views</b><br><br>
+  <img src="https://komarev.com/ghpvc/?username=VedantiDeshmukh&color=blue&style=flat-square" alt="Vedanti's Profile Views" />
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
